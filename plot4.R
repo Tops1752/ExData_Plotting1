@@ -1,3 +1,4 @@
+## Please set direct to where file "household_power_consumption.txt" saved and create a folder called "ExData_Plotting1"
 
 ## Read data from the dates 2007-02-01 and 2007-02-02 
 
